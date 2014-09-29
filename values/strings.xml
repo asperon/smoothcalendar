@@ -3,6 +3,7 @@
     <string name="image">image</string>
     <string name="app_name">Smooth Calendar</string>
     <string name="none">None</string>
+    <string name="loading_string">Loading&#8230;</string>
     <string name="buy_premium">This feature is only available in the Premium version, to purchase it press the buy button. When buying the premium version you support future development of Smooth Calendar.</string>
     <string name="premium_title">Premium</string>
     <string name="buy_title">Buy</string>
@@ -143,6 +144,10 @@
     <string name="padding_left_desc">How much padding to add to the left side of the widget</string>
     <string name="padding_right">Padding right</string>
     <string name="padding_right_desc">How much padding to add to the right side of the widget</string>
+    <string name="padding_top">Padding top</string>
+    <string name="padding_top_desc">How much padding to add to the top side of the widget</string>
+    <string name="padding_bottom">Padding bottom</string>
+    <string name="padding_bottom_desc">How much padding to add to the bottom side of the widget</string>
     <string name="enable_orientation">Enable orientation</string>
     <string name="enable_orientation_on">Use different configuration based on if the device is in portrait or landscape mode</string>
     <string name="enable_orientation_off">Use the same configuration no matter the device orientation</string>
@@ -166,4 +171,7 @@
 	<string name="pref_acra_syslog">Enable ACRA syslog</string>
 	<string name="pref_acra_syslog_enabled">ACRA reports will include syslog</string>
 	<string name="pref_acra_syslog_disabled">ACRA reports wont include syslog</string>
+    <string name="go_event">Go directly to the calendar item</string>
+    <string name="go_event_on">Tapping an calendar item will open it</string>
+    <string name="go_event_off">tapping an calendar item will open the calendar</string>
 </resources>
