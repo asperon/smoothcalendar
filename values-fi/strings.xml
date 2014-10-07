@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="image">kuva</string>
     <string name="app_name">Smooth Calendar</string>
     <string name="none">Ei mitään</string>
+    <string name="loading_string">Lataa&#8230;</string>
     <string name="buy_premium">Tämä ominaisuus on käytettävissä vain Premium-versiossa, jonka voit ostaa painamalla Osta-nappia. Ostaessasi Premium-version tuet Smooth Calendarin kehitystä.</string>
     <string name="premium_title">Premium</string>
     <string name="buy_title">Osta</string>
@@ -142,8 +144,32 @@
     <string name="padding_left_desc">Paljonko tyhjää tilaa pienoisohjelman vasemmalle puolelle</string>
     <string name="padding_right">Täyte oikea</string>
     <string name="padding_right_desc">Paljonko tyhjää tilaa pienoisohjelman oikealle puolelle</string>
+    <string name="padding_top">Täyte ylä</string>
+    <string name="padding_top_desc">Paljonko tyhjää tilaa pienoisohjelman yläpuolelle</string>
+    <string name="padding_bottom">Täyte ala</string>
+    <string name="padding_bottom_desc">Paljonko tyhjää tilaa pienoisohjelman alapuolelle</string>
     <string name="enable_orientation">Asennon muutos käytössä</string>
     <string name="enable_orientation_on">Eri asetukset näytön pysty- ja vaaka-asennolle</string>
     <string name="enable_orientation_off">Samat asetukset asennosta riippumatta</string>
     <string name="advanced">Lisäasetukset</string>
+    <string name="hide_multiday">Piilota monipäiväiset tapahtumat</string>
+    <string name="hide_multiday_on">Monipäiväiset tapahtumat piilotetaan</string>
+    <string name="hide_multiday_off">Monipäiväiset tapahtumat näytetään</string>
+    <string name="crash_toast_text">Smooth Calendar lakkasi toimimasta. Lähetä raportti kehittäjälle auttaaksesi ongelmanratkaisussa, kiitos!</string>
+    <string name="crash_notif_ticker_text">Odottamaton virhe, lähetä raportti&#8230;</string>
+    <string name="crash_notif_title">Smooth Calendar on kaatunut&#8230;</string>
+    <string name="crash_notif_text">Paina tästä auttaaksesi ongelman selvittämisessä.</string>
+    <string name="crash_dialog_title">CrashTest on kaatunut</string>
+    <string name="crash_dialog_text">Odottamaton virhe pysäytti ohjelman. Auta meitä korjaamaan se lähettämällä virheloki. Riittää, että painat OK.</string>
+    <string name="crash_dialog_comment_prompt">Voit kirjoittaa kommenttisi ongelmasta alapuolelle:</string>
+    <string name="crash_dialog_ok_toast">Kiitos !</string>
+    <string name="pref_enable_acra">Salli ACRA</string>
+    <string name="pref_acra_disabled">Vianetsintätyökalu ACRA on pois käytöstä</string>
+    <string name="pref_acra_enabled">Vianetsintätyökalu ACRA on käytössä</string>
+    <string name="pref_acra_syslog">Salli järjestelmäloki</string>
+    <string name="pref_acra_syslog_enabled">ACRA-raportit sisältävät järjestelmälokin</string>
+    <string name="pref_acra_syslog_disabled">ACRA-raportit eivät sisällä järjestelmälokia</string>
+    <string name="go_event">Mene suoraan tapahtumaan</string>
+    <string name="go_event_on">Tapahtuman painaminen avaa tapahtuman</string>
+    <string name="go_event_off">Tapahtuman painaminen avaa kalenterin</string>
 </resources>
