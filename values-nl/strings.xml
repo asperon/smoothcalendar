@@ -4,7 +4,7 @@
 	<string name="app_name">Smooth Calendar</string>
 	<string name="none">Geen</string>
 	<string name="loading_string">Laden&#8230;</string>
-	<string name="buy_premium">Deze optie is alleen beschikbaar in de Premium-versie, gebruik de 'kopen' toets voor aanschaf. Met het aanschaffen van de Premium-versie ondersteunt u toekomstige ontwikkeling van Smooth Calendar.</string>
+	<string name="buy_premium">Deze optie is alleen beschikbaar in de Premium-versie, gebruik de \'kopen\' toets voor aanschaf. Met het aanschaffen van de Premium-versie ondersteunt u toekomstige ontwikkeling van Smooth Calendar.</string>
 	<string name="premium_title">Premium</string>
 	<string name="buy_title">Kopen</string>
 	<string name="cancel_title">Annuleren</string>
@@ -19,7 +19,7 @@
 	<string name="show_location">Toon locatie</string>
 	<string name="show_location_on">Locatie wordt getoond</string>
 	<string name="show_location_off">Locatie wordt niet getoond</string>
-	<string name="show_today">Toon 'vandaag'/'morgen'</string>
+	<string name="show_today">Toon \'vandaag\'/\'morgen\'</string>
 	<string name="show_today_on">Datum van vandaag en morgen worden vergangen door tekst</string>
 	<string name="show_today_off">Datum van vandaag en morgen worden weergegeven als datum</string>
 	<string name="highlight_today">Markeer vandaag</string>

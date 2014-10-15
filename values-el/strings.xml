@@ -142,7 +142,7 @@
     <string name="padding_after_color_desc">Το πλάτος του γεμίσματος μετά την μπάρα χρώματος</string> 
     <string name="padding_left">Γέμισμα Αριστερά</string> 
     <string name="padding_left_desc">Πόσο γέμισμα να προστεθεί αριστερά του widget</string> 
-    <string name="padding_right">Γέμισμα Δεξιά</string></string> 
+    <string name="padding_right">Γέμισμα Δεξιά</string> 
     <string name="padding_right_desc">Πόσο γέμισμα να προστεθεί δεξιά του widget</string> 
     <string name="padding_top">Γέμισμα Επάνω</string> 
     <string name="padding_top_desc">Πόσο γέμισμα να προστεθεί επάνω από το widget</string> 

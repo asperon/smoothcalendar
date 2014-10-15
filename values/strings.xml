@@ -174,4 +174,18 @@
     <string name="go_event">Go directly to the calendar item</string>
     <string name="go_event_on">Tapping an calendar item will open it</string>
     <string name="go_event_off">tapping an calendar item will open the calendar</string>
+    <string name="location_last">Show the location after the event</string>
+    <string name="location_last_on">Location will be shown after the event, given space</string>
+    <string name="location_last_off">Location will be shown before the event</string>
+    <string name="enable_scroll">Scrollable widget</string>
+    <string name="enable_scroll_on">The widget will scroll to show more items</string>
+    <string name="enable_scroll_off">The widget wont scroll</string>
+    <string name="highlight_active">Highlight active events</string>
+    <string name="highlight_active_on">Active events are displayed in a different color</string>
+    <string name="highlight_active_off">Active events will be displayed in the same color as all other events</string>
+    <string name="active_color">Active color</string>
+    <string name="active_color_desc">What color to use for active events</string>
+    <string name="show_multi_today">Show active multiday as today</string>
+    <string name="show_multi_today_on">Show active multiday spanning events as starting today</string>
+    <string name="show_multi_today_off">Show active multiday spanning events true start time</string>
 </resources>
