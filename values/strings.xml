@@ -6,6 +6,8 @@
     <string name="loading_string">Loading&#8230;</string>
     <string name="buy_premium">This feature is only available in the Premium version, to purchase it press the buy button. When buying the premium version you support future development of Smooth Calendar.</string>
     <string name="premium_title">Premium</string>
+    <string name="premium_desc">Support development and unlock extra features by buying the premium version</string>
+    <string name="premium_desc_bought">Thanks for buying the premium version, it helps support development</string>
     <string name="buy_title">Buy</string>
     <string name="cancel_title">Cancel</string>
     <string name="use_detailed_layout">Show the detailed layout</string>
@@ -113,7 +115,7 @@
     <string name="show_debug_off">Debug messages are not written to the log</string>
     <string name="send_debug">Send Debug</string>
     <string name="send_debug_desc">Sends logfile to application creator</string>
-    <string name="font_size">Font Size</string>
+    <string name="font_size">Font size</string>
     <string name="font_size_desc">Font size to use</string>
     <string name="show_birthdays">Show Birthdays</string>
     <string name="show_birthdays_on">Show contact birthdays</string>
@@ -188,4 +190,19 @@
     <string name="show_multi_today">Show active multiday as today</string>
     <string name="show_multi_today_on">Show active multiday spanning events as starting today</string>
     <string name="show_multi_today_off">Show active multiday spanning events true start time</string>
+    <string name="select_font">Select font</string>
+    <string name="select_font_desc">What custom font to use when rendering items</string>
+	<string name="background_custom">Custom</string>
+	<string name="tasks_color">Tasks color</string>
+	<string name="tasks_color_desc">The color to assignt to tasks when using the show color option</string>
+	<string name="save_title">Export settings</string>
+	<string name="save_desc">Export the current widget settings so that they can be restored later</string>
+	<string name="save_help">Enter the filename to save these settings as</string>
+	<string name="save_succeded">Settings exported successfully</string>
+	<string name="save_failed">Export failed</string>
+	<string name="load_title">Import settings</string>
+	<string name="load_desc">Import and apply settings to this widget</string>
+	<string name="load_succeded">Settings imported successfully</string>
+	<string name="load_failed">Import failed</string>
+    <string name="ok_title">OK</string>
 </resources>
