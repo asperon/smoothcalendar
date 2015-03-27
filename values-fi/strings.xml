@@ -6,6 +6,8 @@
     <string name="loading_string">Lataa&#8230;</string>
     <string name="buy_premium">Tämä ominaisuus on käytettävissä vain Premium-versiossa, jonka voit ostaa painamalla Osta-nappia. Ostaessasi Premium-version tuet Smooth Calendarin kehitystä.</string>
     <string name="premium_title">Premium</string>
+    <string name="premium_desc">Tue kehitystä ja avaa lukitut ominaisuudet ostamalla premium-versio</string>
+    <string name="premium_desc_bought">Kiitos premium-version ostamisesta ja kehityksen tukemisesta</string>
     <string name="buy_title">Osta</string>
     <string name="cancel_title">Peruuta</string>
     <string name="use_detailed_layout">Tapahtumien näyttäminen</string>
@@ -188,4 +190,19 @@
     <string name="show_multi_today">Aktiivisen monipäiväisen tapahtuman alkamisajan näyttö</string>
     <string name="show_multi_today_on">Aktiivinen monipäiväinen tapahtuma näytetään alkavaksi tänään</string>
     <string name="show_multi_today_off">Aktiiviselle monipäiväiselle tapahtumalle näytetään todellinen alkamisaika</string>
+    <string name="select_font">Valitse fontti</string>
+    <string name="select_font_desc">Mitä fonttia käytetään</string>
+    <string name="background_custom">Custom</string>
+    	<string name="tasks_color">Tehtävien väri</string>
+    	<string name="tasks_color_desc">Tehtävien väri</string>
+    	<string name="save_title">Vie asetukset</string>
+    	<string name="save_desc">Vie nykyiset asetukset, jotta ne voidaan palauttaa myöhemmin</string>
+    	<string name="save_help">Syötä tiedostonimi, jolla asetukset tallennetaan</string>
+    	<string name="save_succeded">Asetusten vienti onnistui</string>
+    	<string name="save_failed">Vienti epäonnistui</string>
+    	<string name="load_title">Tuo asetukset</string>
+    	<string name="load_desc">Tuo pienoisohjelman asetukset, ja ota ne käyttöön</string>
+    	<string name="load_succeded">Asetusten tuonti onnistui</string>
+    	<string name="load_failed">Tuonti epäonnistui</string>
+    <string name="ok_title">OK</string>
 </resources>
