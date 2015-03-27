@@ -205,4 +205,10 @@
 	<string name="load_succeded">Settings imported successfully</string>
 	<string name="load_failed">Import failed</string>
     <string name="ok_title">OK</string>
+    <string name="licenses">Open Source Licenses</string>
+    <string name="licenses_desc">Smooth Calendar uses the following Open Source Licenses</string>
+    <string name="build_failed">Failed to retrieve build information</string>
+    <string name="translator">Translators please add your name/email to instead of this string</string>
+    <string name="about">About</string>
+    <string name="import_export">Import/Export</string>
 </resources>
