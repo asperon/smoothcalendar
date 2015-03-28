@@ -205,4 +205,10 @@
     	<string name="load_succeded">Asetusten tuonti onnistui</string>
     	<string name="load_failed">Tuonti epäonnistui</string>
     <string name="ok_title">OK</string>
+    <string name="licenses">Avoimen lähdekoodin lisenssit</string>
+    <string name="licenses_desc">Smooth Calendar käyttää seuraavia avoimen lähdekoodin lisenssejä</string>
+    <string name="build_failed">Versiotietojen haku epäonnistui</string>
+    <string name="translator">Suomeksi kääntänyt Riku Talvio. Parannusehdotuksia käännökseen otetaan vastaan. riku.talvio@gmail.com</string>
+    <string name="about">Tietoja</string>
+    <string name="import_export">Tuo/Vie</string>
 </resources>
