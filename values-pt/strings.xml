@@ -4,7 +4,7 @@
   <string name="app_name">Smooth Calendar</string>
   <string name="none">Nada</string>
   <string name="loading_string">Carregamento&#8230;</string>
-  <string name="buy_premium">Esta função só está disponível na versão Premium. Para a adquirir, toque no botão Comprar. Ao comprar a versão Premium, está a ajudar no desenvolvimento do Smooth Calendar</string>
+  <string name="buy_premium">Esta função só está disponível na versão Premium. Para a adquirir, toque no botão Comprar. Ao comprar a versão Premium, está a ajudar no desenvolvimento do Smooth Calendar.</string>
   <string name="premium_title">Premium</string>
   <string name="premium_desc">Se comprar a versão Premium, ajuda no desenvolvimento e desbloqueia mais funções</string>
   <string name="premium_desc_bought">Obrigado por adquirir a versão Premium e ajudar no desenvolvimento</string>
@@ -121,7 +121,7 @@
   <string name="show_birthdays_on">Mostrar aniversários dos contactos</string>
   <string name="show_birthdays_off">Não mostrar aniversários dos contactos</string>
   <string name="birthday_color">Cor de aniversários</string>
-  <string name="birthday_color_desc">Cor do calendário associado aos aniversários</string>
+  <string name="birthday_color_desc">Cor de calendário associada aos aniversários</string>
   <string name="widget_background"></string>
   <string name="calendar_icon">Ícone do calendário</string>
   <string name="padding">Margens</string>
@@ -143,9 +143,9 @@
   <string name="padding_after_color">Margem depois da cor</string>
   <string name="padding_after_color_desc">A margem depois da barra colorida</string>
   <string name="padding_left">Margem esquerda</string>
-  <string name="padding_left_desc">A margem do lado esquerdo do widget</string>
+  <string name="padding_left_desc">A margem esquerda do widget</string>
   <string name="padding_right">Margem direita</string>
-  <string name="padding_right_desc">A margem do lado direito do widget</string>
+  <string name="padding_right_desc">A margem direita do widget</string>
   <string name="padding_top">Margem superior</string>
   <string name="padding_top_desc">A margem superior do widget</string>
   <string name="padding_bottom">Margem inferior</string>
@@ -203,4 +203,10 @@
   <string name="load_succeded">Definições importadas com sucesso</string>
   <string name="load_failed">Falha ao importar</string>
   <string name="ok_title">OK</string>
+  <string name="licenses">Licenças Open Source</string>
+  <string name="licenses_desc">O Smooth Calendar utiliza as seguintes licenças Open Source</string>
+  <string name="build_failed">Falha ao obter as informações da versão</string>
+  <string name="translator">Sérgio Marques</string>
+  <string name="about">Sobre</string>
+  <string name="import_export">Importar/Exportar</string>
 </resources>
