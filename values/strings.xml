@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="image">image</string>
     <string name="app_name">Smooth Calendar</string>
     <string name="none">None</string>
@@ -18,9 +19,6 @@
     <string name="show_endtime">Show end time</string>
     <string name="show_endtime_on">Event end time is displayed</string>
     <string name="show_endtime_off">Event end time is not displayed</string>
-    <string name="show_location">Show location</string>
-    <string name="show_location_on">Location is displayed</string>
-    <string name="show_location_off">Location is not displayed</string>
     <string name="show_today">Show today/tomorrow</string>
     <string name="show_today_on">Today\'s and tomorrows date are replaced</string>
     <string name="show_today_off">Today\'s and tomorrows date are not replaced</string>
@@ -47,13 +45,13 @@
     <string name="use_ampm_off">Times will be displayed as 24h</string>
     <string name="calendar_offset">Offset</string>
     <string name="calendar_offset_desc">Skip this many events before starting the display</string>
-	<string name="calendar_span">Span</string>
-	<string name="calendar_span_desc">Number of days to display events from</string>
+    <string name="calendar_span">Span</string>
+    <string name="calendar_span_desc">Number of days to display events from</string>
     <string name="use_calendar">Use this calendar</string>
     <string name="label_calendars">Calendars</string>
     <string name="label_settings">Settings</string>
-    <string name="button_refresh">Refresh</string>    
-    <string name="button_config">Config</string>    
+    <string name="button_refresh">Refresh</string>
+    <string name="button_config">Config</string>
     <string name="button_calendar">Calendar</string>
     <string name="help_screen">Thanks for installing Smooth Calendar.\n\nSmooth Calendar is a widget and you can add it to your homescreen by long pressing on the homescreen and then select widgets and then select Smooth Calendar. If you are using Android 4.0 or later you will find the widgets in the application drawer under the widget tab, just drag Smooth Calendar to your homescreen.</string>
     <string name="dateformat">Date format</string>
@@ -71,9 +69,9 @@
     <string name="calendars">Calendars</string>
     <string name="layout">Device orientation</string>
     <string name="layout_portrait">Portrait</string>
-	<string name="layout_landscape">Landscape</string>
+    <string name="layout_landscape">Landscape</string>
     <string name="layout_portrait_desc">Settings for number of items, font and background when the device is in portrait position</string>
-	<string name="layout_landscape_desc">Settings for number of items, font and background when the device is in landscape position</string>
+    <string name="layout_landscape_desc">Settings for number of items, font and background when the device is in landscape position</string>
     <string name="select_calendars">Select which calendars to display events from</string>
     <string name="calendar_application">Calendar application</string>
     <string name="calendar_application_desc">Select which calendar application to use</string>
@@ -98,7 +96,7 @@
     <string name="highlight_allday_off">All day events will be displayed in the same color as all other events</string>
     <string name="highlight_allday_color">All day color</string>
     <string name="highlight_allday_color_desc">What color to use for all day events</string>
-	<string name="use_new_icon">Use new icon</string>
+    <string name="use_new_icon">Use new icon</string>
     <string name="use_new_icon_on">Use the new customizable icon</string>
     <string name="use_new_icon_off">Use the old icon</string>
     <string name="icon_color">Icon color</string>
@@ -127,7 +125,7 @@
     <string name="padding">Padding</string>
     <string name="padding_desc">The amount of padding to add to the widget</string>
     <string name="top">Top</string>
-	<string name="bottom">Bottom</string>
+    <string name="bottom">Bottom</string>
     <string name="left">Left</string>
     <string name="right">Right</string>
     <string name="tasks">Tasks</string>
@@ -157,28 +155,25 @@
     <string name="hide_multiday">Hide multiple day spanning events </string>
     <string name="hide_multiday_on">All events spanning more than one day aren\'t shown</string>
     <string name="hide_multiday_off">All events spanning more than one day are shown</string>
-	<string name="crash_toast_text">Smooth Calendar has stopped working, please send a report to the developer to help fix the issue!</string>
-	<string name="crash_notif_ticker_text">Unexpected error, please send a report&#8230;</string>
-	<string name="crash_notif_title">Smooth Calendar has crashed&#8230;</string>
-	<string name="crash_notif_text">Please click here to help fix the issue.</string>
-	<string name="crash_dialog_title">CrashTest has crashed</string>
-	<string name="crash_dialog_text">An unexpected error occurred forcing the
+    <string name="crash_toast_text">Smooth Calendar has stopped working, please send a report to the developer to help fix the issue!</string>
+    <string name="crash_notif_ticker_text">Unexpected error, please send a report&#8230;</string>
+    <string name="crash_notif_title">Smooth Calendar has crashed&#8230;</string>
+    <string name="crash_notif_text">Please click here to help fix the issue.</string>
+    <string name="crash_dialog_title">CrashTest has crashed</string>
+    <string name="crash_dialog_text">An unexpected error occurred forcing the
     application to stop. Please help us fix this by sending us error data,
     all you have to do is click OK.</string>
-	<string name="crash_dialog_comment_prompt">You might add your comments about the problem below:</string>
-	<string name="crash_dialog_ok_toast">Thank you !</string>
-	<string name="pref_enable_acra">Enable ACRA</string>
-	<string name="pref_acra_disabled">ACRA, the debuging tool, is disabled</string>
-	<string name="pref_acra_enabled">ACRA, the debuging tool, is enabled</string>
-	<string name="pref_acra_syslog">Enable ACRA syslog</string>
-	<string name="pref_acra_syslog_enabled">ACRA reports will include syslog</string>
-	<string name="pref_acra_syslog_disabled">ACRA reports wont include syslog</string>
+    <string name="crash_dialog_comment_prompt">You might add your comments about the problem below:</string>
+    <string name="crash_dialog_ok_toast">Thank you !</string>
+    <string name="pref_enable_acra">Enable ACRA</string>
+    <string name="pref_acra_disabled">ACRA, the debuging tool, is disabled</string>
+    <string name="pref_acra_enabled">ACRA, the debuging tool, is enabled</string>
+    <string name="pref_acra_syslog">Enable ACRA syslog</string>
+    <string name="pref_acra_syslog_enabled">ACRA reports will include syslog</string>
+    <string name="pref_acra_syslog_disabled">ACRA reports wont include syslog</string>
     <string name="go_event">Go directly to the calendar item</string>
     <string name="go_event_on">Tapping an calendar item will open it</string>
     <string name="go_event_off">tapping an calendar item will open the calendar</string>
-    <string name="location_last">Show the location after the event</string>
-    <string name="location_last_on">Location will be shown after the event, given space</string>
-    <string name="location_last_off">Location will be shown before the event</string>
     <string name="enable_scroll">Scrollable widget</string>
     <string name="enable_scroll_on">The widget will scroll to show more items</string>
     <string name="enable_scroll_off">The widget wont scroll</string>
@@ -192,18 +187,18 @@
     <string name="show_multi_today_off">Show active multiday spanning events true start time</string>
     <string name="select_font">Select font</string>
     <string name="select_font_desc">What custom font to use when rendering items</string>
-	<string name="background_custom">Custom</string>
-	<string name="tasks_color">Tasks color</string>
-	<string name="tasks_color_desc">The color to assignt to tasks when using the show color option</string>
-	<string name="save_title">Export settings</string>
-	<string name="save_desc">Export the current widget settings so that they can be restored later</string>
-	<string name="save_help">Enter the filename to save these settings as</string>
-	<string name="save_succeded">Settings exported successfully</string>
-	<string name="save_failed">Export failed</string>
-	<string name="load_title">Import settings</string>
-	<string name="load_desc">Import and apply settings to this widget</string>
-	<string name="load_succeded">Settings imported successfully</string>
-	<string name="load_failed">Import failed</string>
+    <string name="background_custom">Custom</string>
+    <string name="tasks_color">Tasks color</string>
+    <string name="tasks_color_desc">The color to assignt to tasks when using the show color option</string>
+    <string name="save_title">Export settings</string>
+    <string name="save_desc">Export the current widget settings so that they can be restored later</string>
+    <string name="save_help">Enter the filename to save these settings as</string>
+    <string name="save_succeded">Settings exported successfully</string>
+    <string name="save_failed">Export failed</string>
+    <string name="load_title">Import settings</string>
+    <string name="load_desc">Import and apply settings to this widget</string>
+    <string name="load_succeded">Settings imported successfully</string>
+    <string name="load_failed">Import failed</string>
     <string name="ok_title">OK</string>
     <string name="licenses">Open Source Licenses</string>
     <string name="licenses_desc">Smooth Calendar uses the following Open Source Licenses</string>
@@ -211,4 +206,14 @@
     <string name="translator">Translators please add your name/email to instead of this string</string>
     <string name="about">About</string>
     <string name="import_export">Import/Export</string>
+    <string name="highlight_tomorrow">Highlight tomorrow</string>
+    <string name="highlight_tomorrow_on">Events occurring tomorrow are shown in a different color</string>
+    <string name="highlight_tomorrow_off">Events occurring tomorrow are shown in the same color as all other events</string>
+    <string name="highlight_tomorrow_color">Highlight color</string>
+    <string name="highlight_tomorrow_color_desc">What color to use for tomorrow\'s events</string>
+    <string name="item_select_sort">Items</string>
+    <string name="item_select_sort_desc">Select which items to show and their order</string>
+    <string name="no_prio_allday">Down prioritize allday events</string>
+    <string name="no_prio_allday_on">All day events will be displayed last in each day</string>
+    <string name="no_prio_allday_off">All day events will be displayed first in each day</string>
 </resources>
