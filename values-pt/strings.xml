@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
   <string name="image">imagem</string>
   <string name="app_name">Smooth Calendar</string>
   <string name="none">Nada</string>
@@ -18,15 +19,12 @@
   <string name="show_endtime">Mostrar hora de fim</string>
   <string name="show_endtime_on">Hora de fim do evento é mostrada</string>
   <string name="show_endtime_off">Hora de fim do evento não é mostrada</string>
-  <string name="show_location">Mostrar localização</string>
-  <string name="show_location_on">A localização é mostrada</string>
-  <string name="show_location_off">A localização não é mostrada</string>
   <string name="show_today">Mostrar hoje/amanhã</string>
   <string name="show_today_on">As datas hoje/amanhã são substituídas</string>
   <string name="show_today_off">As datas hoje/amanhã não são substituídas</string>
   <string name="highlight_today">Destacar hoje</string>
-  <string name="highlight_today_on">Os eventos que ocorrem hoje são mostrados numa cor diferente</string>
-  <string name="highlight_today_off">Os eventos que ocorrem hoje são mostrados na mesma cor dos outros eventos</string>
+  <string name="highlight_today_on">Os eventos que ocorrem hoje são mostrados com cor diferente</string>
+  <string name="highlight_today_off">Os eventos que ocorrem hoje não são mostrados com cor diferente</string>
   <string name="show_menu">Mostrar menu</string>
   <string name="show_menu_on">Ao tocar no widget, mostrar o menu</string>
   <string name="show_menu_off">Ao tocar no widget, mostrar o calendário</string>
@@ -37,8 +35,8 @@
   <string name="text_to_calendar_color_on">O texto terá a mesma cor do calendário de origem</string>
   <string name="text_to_calendar_color_off">O texto terá a cor pré-definida</string>
   <string name="hide_allday">Ocultar eventos com duração diária</string>
-  <string name="hide_allday_on">Os eventos com duração diária não são mostrados</string>
-  <string name="hide_allday_off">Os eventos com duração diária são mostrados</string>
+  <string name="hide_allday_on">Os eventos que ocupem todo o dia não são mostrados</string>
+  <string name="hide_allday_off">Os eventos que ocupem todo o dia são mostrados</string>
   <string name="remove_on_end">Remover no final</string>
   <string name="remove_on_end_on">Remover eventos ao terminarem</string>
   <string name="remove_on_end_off">Remover eventos ao iniciarem</string>
@@ -87,17 +85,17 @@
   <string name="display_once_on">Cada data será mostrada uma vez</string>
   <string name="display_once_off">A data será repetida em cada linha</string>
   <string name="highlight_color">Cor de destaque</string>
-  <string name="highlight_color_desc">Cor utilizada para os eventos de hoje</string>
+  <string name="highlight_color_desc">A cor utilizada para os eventos de hoje</string>
   <string name="text_color">Cor de texto</string>
-  <string name="text_color_desc">Cor utilizada para o texto dos eventos</string>
+  <string name="text_color_desc">A cor utilizada para o texto dos eventos</string>
   <string name="background_color">Cor de fundo</string>
-  <string name="background_color_desc">Cor utilizada para o fundo do widget</string>
+  <string name="background_color_desc">A cor utilizada para o fundo do widget</string>
   <string name="loading_applications">A carregar aplicações&#8230;</string>
-  <string name="highlight_allday">Destacar eventos com duração diária</string>
-  <string name="highlight_allday_on">Os eventos com duração diária são mostrados numa cor diferente</string>
-  <string name="highlight_allday_off">Os eventos com duração diária são mostrados na mesma cor dos outros eventos</string>
-  <string name="highlight_allday_color">Cor dos eventos diários</string>
-  <string name="highlight_allday_color_desc">A cor a utilizar para os eventos diários</string>
+  <string name="highlight_allday">Destacar eventos que ocupem todo o dia</string>
+  <string name="highlight_allday_on">Os eventos que ocupem todo o dia são mostrados com cor diferente</string>
+  <string name="highlight_allday_off">Os eventos que ocupem todo o dia não são mostrados com cor diferente</string>
+  <string name="highlight_allday_color">Cor dos eventos que ocupem todo o dia</string>
+  <string name="highlight_allday_color_desc">A cor a utilizar para os eventos que ocupem todo o dia</string>
   <string name="use_new_icon">Usar novo ícone</string>
   <string name="use_new_icon_on">Utilizar o ícone personalizável</string>
   <string name="use_new_icon_off">Utilizar o ícone antigo</string>
@@ -162,7 +160,9 @@
   <string name="crash_notif_title">O Smooth Calendar terminou&#8230;</string>
   <string name="crash_notif_text">Clique aqui para ajudar a corrigir este erro</string>
   <string name="crash_dialog_title">O CrashTest terminou</string>
-  <string name="crash_dialog_text">Ocorreu um erro que terminou a operação. Ajude-nos a corrigir este erro enviando um relatório de erro.</string>
+  <string name="crash_dialog_text">Ocorreu um erro que terminou a aplicação.
+  Ajude-nos a corrigir este erro enviando-nos os dados do erro.
+  A única coisa que precisa fazer é clicar em OK.</string>
   <string name="crash_dialog_comment_prompt">Pode adicionar alguns comentários abaixo:</string>
   <string name="crash_dialog_ok_toast">Obrigado!</string>
   <string name="pref_enable_acra">Ativar ACRA</string>
@@ -174,15 +174,12 @@
   <string name="go_event">Ir para o item do calendário</string>
   <string name="go_event_on">Ao tocar no item do calendário, abrir evento no calendário</string>
   <string name="go_event_off">Ao tocar no item do calendário, abrir o calendário</string>
-  <string name="location_last">Mostrar localização depois do evento</string>
-  <string name="location_last_on">A localização será mostrada depois do evento</string>
-  <string name="location_last_off">A localização será mostrada antes do evento</string>
   <string name="enable_scroll">Widget deslocável</string>
   <string name="enable_scroll_on">O widget pode ser deslocado para mostrar mais itens</string>
-  <string name="enable_scroll_off">O widget não será deslocado</string>
+  <string name="enable_scroll_off">O widget não pode ser deslocado</string>
   <string name="highlight_active">Destacar eventos ativos</string>
-  <string name="highlight_active_on">Os eventos ativos serão mostrados com cor diferente</string>
-  <string name="highlight_active_off">Os eventos ativos não serão mostrados com cor diferente</string>
+  <string name="highlight_active_on">Os eventos ativos são mostrados com cor diferente</string>
+  <string name="highlight_active_off">Os eventos ativos não são mostrados com cor diferente</string>
   <string name="active_color">Cor de eventos ativos</string>
   <string name="active_color_desc">A cor a utilizar nos eventos ativos</string>
   <string name="show_multi_today">Mostrar eventos de vários dias como hoje</string>
@@ -209,4 +206,14 @@
   <string name="translator">Sérgio Marques</string>
   <string name="about">Sobre</string>
   <string name="import_export">Importar/Exportar</string>
+  <string name="highlight_tomorrow">Destacar amanhã</string>
+  <string name="highlight_tomorrow_on">Os eventos que ocorram amanhã são mostrados com cor diferente</string>
+  <string name="highlight_tomorrow_off">Os eventos que ocorram amanhã não são mostrados com cor diferente</string>
+  <string name="highlight_tomorrow_color">Cor de destaque</string>
+  <string name="highlight_tomorrow_color_desc">A cor utilizada para os eventos de amanhã</string>
+  <string name="item_select_sort">Itens</string>
+  <string name="item_select_sort_desc">Selecione os itens a mostrar e a sua ordem</string>
+  <string name="no_prio_allday">Prioridade dos eventos que ocupem todo o dia</string>
+  <string name="no_prio_allday_on">Os eventos que ocupem todo o dia são mostrados em último lugar</string>
+  <string name="no_prio_allday_off">Os eventos que ocupem todo o dia são mostrados em primeiro lugar</string>
 </resources>
