@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="image">image</string>
     <string name="app_name">Smooth Calendar</string>
     <string name="none">None</string>
@@ -62,7 +61,7 @@
     <string name="timeformat_desc">Display the event time in this format</string>
     <string name="timeformat_default">HH:mm</string>
     <string name="timeformat_default_ampm">h:mm a</string>
-    <string name="smooth_calendar_widget">Smooth Calendar widget </string>
+    <string name="smooth_calendar_widget">Smooth Calendar widget</string>
     <string name="calendar">Calendar</string>
     <string name="application">Application</string>
     <string name="display">Display</string>
