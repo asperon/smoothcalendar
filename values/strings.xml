@@ -2,6 +2,9 @@
 <resources>
     <string name="image">image</string>
     <string name="app_name">Smooth Calendar</string>
+    <string name="calendar">Calendar</string>
+    <string name="configure">Configure</string>
+    <string name="refresh">Refresh</string>
     <string name="app_description">Smooth Calendar is a simple and good looking calendar widget</string>
     <string name="none">None</string>
     <string name="loading_string">Loading&#8230;</string>
@@ -28,10 +31,16 @@
     <string name="setting_remove_on_end_title">Remove on end</string>
     <string name="setting_remove_on_end_on">Remove events when they end instead of when they start</string>
     <string name="setting_remove_on_end_off">Remove events when they start</string>
-    <string name="setting_calendar_offset_title">Offset</string>
-    <string name="setting_calendar_offset_summary">Skip this many events before starting the display</string>
-    <string name="setting_calendar_span_title">Span</string>
-    <string name="setting_calendar_span_summary">Number of days to display events from</string>
+    <string name="setting_show_menu_title">Show menu</string>
+    <string name="setting_show_menu_on">Shows a menu when the widget is tapped</string>
+    <string name="setting_show_menu_off">Goes directly to the calendar when the widget is tapped</string>
+    <string name="setting_column_layout_title">Column layout</string>
+    <string name="setting_column_layout_on">Put all the calendar info into aligned columns</string>
+    <string name="setting_column_layout_off">Put all the calendar info as a string</string>
+    <string name="setting_offset_title">Offset</string>
+    <string name="setting_offset_summary">Skip this many events before starting the display</string>
+    <string name="setting_span_title">Span</string>
+    <string name="setting_span_summary">Number of days to display events from</string>
     <string name="use_calendar">Use this calendar</string>
     <string name="setting_calendars_title">Calendars</string>
     <string name="setting_settings_title">Settings</string>
@@ -41,7 +50,6 @@
     <string name="setting_time_format_title">Time format</string>
     <string name="setting_time_format_summary">Display the event time in this format</string>
     <string name="smooth_calendar_widget">Smooth Calendar Widget </string>
-    <string name="calendar">Calendar</string>
     <string name="application">Application</string>
     <string name="display">Display</string>
     <string name="settings_calendars_title">Calendars</string>
@@ -73,7 +81,7 @@
     <string name="setting_text_style_title">Text style</string>
     <string name="setting_text_style_summary">What style to use for the text</string>
     <string name="setting_show_items_title">Number of items</string>
-    <string name="setting_show_items_summary">Show these number of items, between 1 and 12</string>
+    <string name="setting_show_items_summary">Show these number of items, between 1 and 99</string>
     <string name="setting_font_size_title">Font size</string>
     <string name="setting_font_size_summary">Font size to use</string>
     <string name="calendar_icon">Calendar Icon</string>
@@ -199,4 +207,15 @@
     <string name="not_set">Not set</string>
     <string name="about">About</string>
     <string name="transformations">Transformations</string>
+    <string name="item_order">Item order</string>
+    <string name="setting_item_order_title">Item order</string>
+    <string name="setting_item_order_summary">Configure what items to display and in what order</string>
+    <string name="setting_date_order_title">Date</string>
+    <string name="setting_date_order_summary">Display date and if so in what order</string>
+    <string name="setting_time_order_title">Time</string>
+    <string name="setting_time_order_summary">Display time and if so in what order</string>
+    <string name="setting_location_order_title">Location</string>
+    <string name="setting_location_order_summary">Display location and if so in what order</string>
+    <string name="setting_event_order_title">Event</string>
+    <string name="setting_event_order_summary">Display event and if so in what order</string>
 </resources>
